@@ -1,61 +1,50 @@
 <div align="center">
 
-<h1>JARED KERN</h1>
-<h3>Fantasy Toolsmith &middot; Full-Stack Developer</h3>
+# Jared Kern
 
-*I build digital tools for Dungeon Masters.*
-
----
+*I build tools for people who run imaginary worlds.*
 
 </div>
 
-Developer from the rural outlands, crafting purpose-built software for the TTRPG community. I design tools that solve real problems DMs face at the table — session prep, NPC tracking, worldbuilding, and everything in between. Seven apps. One mission: make running a campaign easier.
+---
+
+I'm a solo dev from a small town who keeps making TTRPG tools because I keep finding things that don't exist yet. Seven apps and counting. Each one started as "I wish someone would build this" and ended as "fine, I'll do it myself."
+
+These aren't just for D&D Dungeon Masters — they're for GMs, players, worldbuilders, writers, solo RPG journalers, actual play hosts, and anyone else whose brain won't stop generating fictional places and the people who live in them. If you run a world in any system, something here is probably useful to you.
 
 ---
 
 ## The Toolkit
 
-Seven standalone tools, each built to solve a specific Dungeon Master pain point.
-
-| | Tool | What It Does |
+| | Tool | What It's For |
 |---|------|-------------|
-| :crossed_swords: | **[Saga](https://github.com/DarkCandyLord/saga)** | Campaign management — characters, timelines, badges, dice roller, initiative tracker |
-| :hammer_and_pick: | **[Loreforge](https://github.com/DarkCandyLord/loreforge)** | Template-driven worldbuilding — 30 structured prompts across 6 categories, no AI |
-| :spider_web: | **[Intrigue](https://github.com/DarkCandyLord/intrigue)** | NPC relationship mapper — interactive D3.js force-directed network graph |
-| :scroll: | **[Oath](https://github.com/DarkCandyLord/oath)** | Session zero generator — social contracts, safety tools, tone templates |
-| :world_map: | **[Outlands](https://github.com/DarkCandyLord/outlands)** | Hex crawl generator — SVG hex maps with terrain painting and encounters |
-| :balance_scale: | **[Favor](https://github.com/DarkCandyLord/favor)** | Faction reputation tracker — character-faction heatmap with 6 tiers |
-| :studio_microphone: | **[Voicecraft](https://github.com/DarkCandyLord/voicecraft)** | NPC voice profiles — dialect mixing, coaching prompts, sample dialogue |
+| :crossed_swords: | **[Saga](https://github.com/DarkCandyLord/saga)** | Everything about your campaign in one place — characters, sessions, timelines, dice, initiative — instead of scattered across three notebooks and a spreadsheet |
+| :hammer_and_pick: | **[Loreforge](https://github.com/DarkCandyLord/loreforge)** | Worldbuilding with structure but no autopilot. 30 prompts across 6 categories. No AI. Your words, your world |
+| :spider_web: | **[Intrigue](https://github.com/DarkCandyLord/intrigue)** | Map who knows who and why it matters. Interactive network graph for NPCs, factions, alliances, and secrets |
+| :scroll: | **[Oath](https://github.com/DarkCandyLord/oath)** | Start campaigns right. Session zero wizard for tone, safety tools, house rules, and what everyone actually expects |
+| :world_map: | **[Outlands](https://github.com/DarkCandyLord/outlands)** | Paint a hex map, fill it with encounters, and run exploration. For hex crawls and overland travel in any system |
+| :balance_scale: | **[Favor](https://github.com/DarkCandyLord/favor)** | Track faction politics. Reputation heatmap so you always know where every character stands with every faction |
+| :studio_microphone: | **[Voicecraft](https://github.com/DarkCandyLord/voicecraft)** | Give every NPC a distinct voice and actually remember it next session. Dialect mixing, coaching prompts, sample lines |
+
+All system-agnostic. D&D, Pathfinder, Mothership, Blades in the Dark, your homebrew — the tools don't care about your edition.
 
 ---
 
-## Tech Stack
+## Right Now
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+- Growing a D&D memes TikTok channel
+- Looking for IT / dev work, remote preferred
+- Probably already thinking about tool number eight
 
 ---
 
-## Currently
+<details>
+<summary>Stack</summary>
 
-- :mag: Seeking IT / Dev roles (remote-first)
-- :game_die: Building tools for the D&D community
-- :clapper: Growing a D&D memes TikTok channel
+<br>
 
----
+TypeScript, Next.js, React, Tailwind CSS, Prisma, SQLite, D3.js, Framer Motion.
 
-<div align="center">
+Every app is standalone with its own local database. No accounts, no cloud dependency, no signup walls. Just tools that work offline at your table.
 
-![Jared's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkCandyLord&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-
----
-
-*May your rolls be natural 20s.*
-
-</div>
+</details>
